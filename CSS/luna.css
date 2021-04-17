@@ -1,0 +1,41 @@
+.varias_lunas{
+    margin: auto;
+    background-color:#03384a;
+   
+}
+
+
+
+.titulo_lunas{
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    margin-top: 95px;
+}
+
+.distintas_lunas{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 60px;
+    
+}
+
+.lunas{
+    width: 180px;
+    height: 180px;
+    border: gray solid 3px;
+    border-radius: 20px;
+    margin: 10px 10px 10px 10px;
+}
+body{
+    background-color: #03384a;
+}
+.luna{
+    background-color:white
+}
+
+section {
+    width: 1100px;
+    margin: auto;  
+}
